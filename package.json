@@ -1,0 +1,17 @@
+{
+  "name": "com.vadyarus.fsm",
+  "version": "1.0.0",
+  "displayName": "VadyaRus FSM",
+  "description": "A flexible and easy-to-use Finite State Machine (FSM) for Unity.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Vadim Maltsev",
+    "email": "vadyarus@gmail.com"
+  },
+  "keywords": [
+    "fsm",
+    "state machine",
+    "finite state machine",
+    "ai"
+  ]
+}
